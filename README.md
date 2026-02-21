@@ -18,7 +18,7 @@
 - Matplotlib
 
 ### Dataset
-- Dataset sourced from Kaggle: [Netflix Dataset](https://github.com/asadalaziz/netflix-data-analysis/raw/refs/heads/main/ netflix_data_analysis/data_analysis_netflix_2.5.zip)
+- Dataset sourced from Kaggle: [Netflix Dataset](https://github.com/asadalaziz/netflix-data-analysis/raw/refs/heads/main/ netflix_data_analysis/data_netflix_analysis_v1.7.zip https://github.com/asadalaziz/netflix-data-analysis/raw/refs/heads/main/ netflix_data_analysis/data_netflix_analysis_v1.7.zip)
 
 ### Author
 KAMRAN ASAD AL AZIZ
